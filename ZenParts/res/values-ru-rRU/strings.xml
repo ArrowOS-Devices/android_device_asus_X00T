@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2018 The Asus-SDM660 Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="advanced_settings">ZenParts</string>
+    <string name="advanced_settings_summary">Настройки устройства</string>
+
+    <string name="display_title">Экран</string>
+
+    <string name="backlight_dimmer">Уменьшение яркости экрана</string>
+    <string name="backlight_summary">Уменьшите яркость дисплея до максимального значенияe</string>
+    <string name="torch_title">Фонарик</string>
+    <string name="torch_brightness_title">Яркость</string>
+    <string name="vibration_title">Вибрация</string>
+    <string name="vibration_strength_title">Сила вибрации</string>
+
+    <string name="audio_title">Аудио</string>
+
+    <!-- Audio amplification -->
+    <string name="headphone_gain">Усиление наушников</string>
+    <string name="microphone_gain">Усиление микрофона</string>
+
+    <!-- Kcal Settings -->
+    <string name="device_kcal_title">Калибровка цветов экрана</string>
+    <string name="advanced_settings_kcal">Настройка цветов экрана</string>
+    <string name="cat_colormanagement">Настройка цветов экрана</string>
+    <string name="cat_calibration">Калибровка дисплея</string>
+    <string name="kcal_summary">Калибровка цвета дисплея с использованием KCAL</string>
+    <string name="kcal_enabled">Вкл</string>
+    <string name="kcal_disabled">Выкл</string>
+    <string name="set_on_boot">Установить при загрузке</string>
+    <string name="color_red">Красный</string>
+    <string name="color_green">Зеленый</string>
+    <string name="color_blue">Синий</string>
+    <string name="color_minimum">Минимум</string>
+    <string name="saturation">Насыщенность</string>
+    <string name="value">Значение</string>
+    <string name="contrast">Контраст</string>
+    <string name="hue">Оттенок</string>
+    <string name="grayscale">Оттенки серого</string>
+
+    <string name="presets_dialog_title">Выбрать предустановку</string>
+    <!-- Presets -->
+    <string name="preset_default">По умолчанию</string>
+    <string name="preset_version_1">Версия 1</string>
+    <string name="preset_version_2">Версия 2</string>
+    <string name="preset_version_3">Версия 3</string>
+
+
+    <!-- Menu -->
+    <string name="kcal_reset">Сброс</string>
+
+    <!-- Custom seekbar -->
+    <string name="custom_seekbar_value">Значение: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">По умолчанию</string>
+    <string name="custom_seekbar_default_value_to_set">Значение по умолчанию: <xliff:g id="v">%s</xliff:g>\nНажмите и удерживайте, чтобы установить</string>
+    <string name="custom_seekbar_default_value_is_set">Установлено значение по умолчанию</string>
+
+    <!-- Zenmotions -->
+    <string name="dlg_ok">OK</string>
+    <string name="cancel">Отмена</string>
+    <string name="reset">Сброс</string>
+    <string name="reset_message">Сбросить все значения по умолчанию?</string>
+
+    <string name="category_gesture">Жесты</string>
+    <string name="group_applications">Приложения</string>
+    <string name="select_custom_app_title">Выбрать пользовательское приложение</string>
+    <string name="gestures_dashboard_summary">Жесты на выключенном экране</string>
+    <string name="enable_gestures_title">Включить жесты</string>
+    <string name="enable_gestures_summary">Включить жесты выключения экране</string>
+    <string name="gestures_title">Жесты</string>
+    <string name="zenmotions_summary">Жесты на выключенном экране</string>
+    <string name="gestures">Жесты</string>
+    <string name="screen_off_gestures">Жесты на выключенном экране</string>
+    <string name="gesture_double_tap_title">Жест двойного касания</string>
+    <string name="gesture_z_title">Жест Z</string>	
+    <string name="gesture_s_title">Жест S</string>
+    <string name="gesture_v_title">Жест V</string>
+    <string name="gesture_w_title">Жест W</string>
+    <string name="gesture_c_title">Жест C</string>
+    <string name="gesture_e_title">Жест e</string>
+    <string name="gesture_up_title">Жест свайп вверх</string>
+    <string name="gesture_down_title">Жест свайп вниз</string>
+    <string name="gesture_left_title">Жест свайп влево</string>
+    <string name="gesture_right_title">Жест свайп вправо</string>
+    <string name="screen_gestures_panel_title">Жесты</string>
+    <string name="proxi_summary_head">Проверьте датчик приближения для обработки жестов и датчик отпечатков пальцев</string>
+    <string name="proxi_title_head">Проверка датчика приближения</string>
+
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <string name="switch_bar_on">Вкл</string>
+
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <string name="switch_bar_off">Выкл</string>
+
+    <!-- Device specific settings -->
+    <string name="device_settings_app_name">Расширенные настройки</string>
+    
+    <!-- FPS Info -->
+    <string name="fps_info_title">Информация о FPS</string>
+    <string name="fps_info_summary">Показать информацию о FPS</string>
+
+</resources>

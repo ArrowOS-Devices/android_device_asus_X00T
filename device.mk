@@ -209,7 +209,6 @@ PRODUCT_PACKAGES += \
 
 # OMX
 PRODUCT_PACKAGES += \
-    libaacwrapper \
     libc2dcolorconvert \
     libmm-omxcore \
     libOmxAacEnc \
@@ -363,14 +362,6 @@ PRODUCT_PACKAGES += \
 # libstdc++: camera.sdm660
 PRODUCT_PACKAGES += \
     libstdc++.vendor
-
-# WFD
-PRODUCT_PACKAGES += \
-    libmediaextractorservice \
-    libnl
-
-PRODUCT_BOOT_JARS += \
-    WfdCommon
 
 # WiFi
 PRODUCT_PACKAGES += \

@@ -867,6 +867,9 @@ vendor/lib64/libcpion.so|0a6999ca33dea3bed4301106fc225f9b11b9f289
 vendor/lib64/liboemcrypto.so|c813d9e8798c6602656e124bf71b078ff6be55bd
 vendor/lib64/libwvhidl.so|6a391723bb40d8d7ee09012fe9c31f0122e4a84f
 
+# DRM-Widevine-oemcrypto
+vendor/lib64/liboemcrypto.so
+
 # DRM-Widevine-HDCP - from phoenix_sprout - RKQ1.201123.002
 vendor/lib64/libhdcpsrm.so|affdc2195766c34226510dd422fbf22f689b25b2
 vendor/lib64/libmm-hdcpmgr.so|99cf7e11c8e08ddb92deb8fbd514cf874bedaf63

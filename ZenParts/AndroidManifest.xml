@@ -107,6 +107,7 @@
         <service
             android:name=".ZenpartsTile"
             android:enabled="true"
+            android:exported="true"
             android:icon="@drawable/qs_asus"
             android:label="@string/advanced_settings"
             android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">
@@ -119,6 +120,7 @@
             android:exported="false" />
         <service
             android:name=".FPSTileService"
+            android:exported="true"
             android:icon="@drawable/ic_fps_info"
             android:label="@string/fps_info_title"
             android:permission="android.permission.BIND_QUICK_SETTINGS_TILE">

@@ -41,10 +41,6 @@ vendor/etc/init/vendor.qti.hardware.alarm@1.0-service.rc|a03a9a1c818595b19272ea6
 vendor/lib64/hw/vendor.qti.hardware.alarm@1.0-impl.so|3d6f94e05b704cb07df52ec61fde007d0a47e12c
 vendor/lib64/vendor.qti.hardware.alarm@1.0.so|f1a133a04558fc09687deb67517fb886e8d5d1b2
 
-# ANT+ - from LA.UM.9.12.r1-10800-SMxx50.0
-vendor/lib/hw/com.dsi.ant@1.0-impl.so|0878e6b855e4b7495214bca404f13de9053b52f6
-vendor/lib64/hw/com.dsi.ant@1.0-impl.so|68131dd2db0df81301d390dc1412bfe7ee54915b
-
 # Audio-Firmware
 vendor/firmware/tfa98xx.cnt
 
